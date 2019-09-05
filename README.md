@@ -9,7 +9,7 @@ express-gexf is a simple-minded utility for converting EXPRESS schemas encoded a
 |     Type Select Object          |    'type_inherits" Edge type     |
 |     Explicit Attribute          |    'has' Edge type               |
 
-It was originally written as an aid to better understand entity coupling in the existing [Industry Foundation Classes](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/) schema. Sample output for this this schema can be found in the (samples)[https://github.com/devonsparks/express-gexf/tree/master/samples/IFC4x2] directory.
+It was originally written as an aid to understand entity coupling in the [Industry Foundation Classes](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/) schema. Sample output for this this schema can be found in the (samples)[https://github.com/devonsparks/express-gexf/tree/master/samples/IFC4x2] directory.
 
 # License
 express-gexf is available under an MIT License. Pull requests welcome.
