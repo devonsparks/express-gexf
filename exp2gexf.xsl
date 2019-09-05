@@ -18,7 +18,7 @@
 			<edges>
 				<xsl:apply-templates select="exp:entity/@supertypes"/>             <!-- entity hierarchy -->
 				<xsl:apply-templates select="exp:type/exp:select/@selectitems"/>   <!-- type hierarchy   -->
-		        <xsl:apply-templates select="exp:entity/exp:explicit"/>            <!-- associations     -->
+		        <xsl:apply-templates select="exp:entity/exp:explicit"/>                    <!-- associations     -->
 			</edges>
 	   </graph> 
 </gexf>
